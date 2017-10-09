@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Speculative Grace"
+title: "OOO"
 author: "Isaac"
 ---
 
