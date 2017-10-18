@@ -4,7 +4,7 @@ title: "Software Thinking"
 author: "Isaac"
 ---
 
-**inprogress**
+#**inprogress**
 
 >"Technologisation of the senses and structuring of relations by technology is often carried out by naturalized means, lessening our ability to understand and engage with such changes." – Software Studies. Matthew Fuller
 
@@ -14,9 +14,7 @@ Software holds inside it ways of thinking. These ways of thinking of individuals
 ###### - Software Studies / A lexicon. ed Matthew Fuller.
 
 As a piece of paper is connected to the material that makes it, connected to the sun that grew it, everything comes together. Software is no different, it is connected to the people and the cultures that created it, the hardware it runs on, the input data and the results it gives. Writing software is a social act. Writing software is a political act. How do we develop in a way that understands this? I'd like to make software that explores ways of seeing and thinking about the world. Everything we know about the world is that it isn't binary, things drift and are fuzzy and there are many shades of being - so how does a box of switches help? 
+In embracing and manipulating software can we create any new collisions?
 
 >“Games, whether digital or analog, function precisely the same way computers do: they are derived from a system of rules that sets forth parameters or constraints for dynamic interactions.” - Games AS Art: The Aesthetics of play. Celia Pearce.
-
-In embracing and manipulating software we can create new collisions of objects. Rules and structures, like the binary, can help us understand the world that isn't there, the negative space reveals relationships between things. 
-
 
