@@ -23,3 +23,7 @@ I have also been interested in how this relates to Game development in articles 
 
 **RESEARCH AIM**
 In our project we are exploring how the structure of programming languages affect the programmers approach to understanding the world around them. We will be examining the constraints of programming language, questioning how it influences the work we make as artists and the way we communicate with others. Making the hidden thinking processes visible by applying the syntax of programming languages to other forms. 
+
+*Introduction from Concepts of Programming Languages (Eleventh Edition), Robert W. Sebesta. 2016. Pearson. *
+![](https://isaac-art.github.io/images/IMG_1064.jpg)
+![](https://isaac-art.github.io/images/IMG_1065.jpg)
