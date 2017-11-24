@@ -10,9 +10,10 @@ The reading for this week was *Executing Practices* by Helen Pritchard, Eric Sno
 I’d like you to study them all." (Knuth [1989] 1991, 12–13)
 
 >"the instruction cycle does not encompass excecution's impact and embeddedness in the world" 
-Thinking of this text in relation to the research of oour group project made me reconsider how code differs from other forms of writing in its excecution, how it goes on to do something, to go beyond itself as text and language. 
+>
+Thinking of this text in relation to the research of our group project made me reconsider how code differs from other forms of writing in its excecution, how it goes on to do something, to go beyond itself as text and language. 
 
-The research I am undertaking started with questions around how language has an impact on a programmer, and how creative coding frameworks impose a way of seeing on an artists. I was wondering how programming languages constrain futures, constrain ways of thinking and solutions to problems that make sense to that language. As an artist I find my primary concern with using programming in my work is around the value transferrence and alignment with the people who created the languages, the frameworks, the tools and material I work with.  
+The research we are undertaking started with questions around how language has an impact on a programmer, and how creative coding frameworks impose a way of seeing on an artists. I was wondering how programming languages constrain futures, constrain ways of thinking and solutions to problems that make sense to that language. As an artist I find my primary concern with using programming in my work is around the value transferrence and alignment with the people who created the languages, the frameworks, the tools and material I work with.  
 >"processes of computation have particular obligations that infringe upon those who practice or are affected by it."
 
 This research has led to a few different threads I am interested in exploring:
