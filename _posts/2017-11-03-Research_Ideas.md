@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Research Ideas"
-author: "Isaac (working with Daniah & Zafaran)"
+author: "Isaac"
 ---
 
 Our research group began looking into language and the area of computer mediated communication (CMC studies).

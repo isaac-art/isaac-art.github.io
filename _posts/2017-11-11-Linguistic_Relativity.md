@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Linguistic Relativity"
-author: "Isaac (working with Daniah & Zafaran)"
+author: "Isaac"
 ---
 
 Following on from the first weeks research we continued by limiting our discussion to how a programmer is effected by the language/software/hardware they are working in, what the constraints are and how they are useful, and how do we escape them. 
